@@ -1,1 +1,1 @@
-# mod3-sol
+# mod3-solution
